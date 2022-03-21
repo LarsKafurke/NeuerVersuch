@@ -478,5 +478,5 @@
 </chunk>
   </data>
  </layer>
- <objectgroup id="8" name="floor layer"/>
+ <objectgroup id="8" name="floorLayer"/>
 </map>
